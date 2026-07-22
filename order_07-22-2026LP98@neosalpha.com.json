@@ -1,0 +1,30 @@
+{
+  "Order" : {
+    "Customer" : {
+      "ID" : "12345",
+      "Name" : "John Doe",
+      "SalesRep" : "Jane Smith",
+      "SalesRepEmail" : "jane.smith@example.com",
+      "Phone" : "+91-800-123-4567",
+      "TotalDiscount" : 20.0
+    },
+    "Items" : [
+      {
+        "ItemID" : "98765",
+        "Description" : "Wireless Mouse",
+        "Quantity" : 5,
+        "Rate" : 10,
+        "Amount" : 50,
+        "Discount" : 12.0
+      },
+      {
+        "ItemID" : "98765",
+        "Description" : "Wireless Mouse",
+        "Quantity" : 5,
+        "Rate" : 10,
+        "Amount" : 50,
+        "Discount" : 12.0
+      }
+    ]
+  }
+}
